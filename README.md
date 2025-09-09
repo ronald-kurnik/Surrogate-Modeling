@@ -5,3 +5,5 @@ is computationally prohibitive. A single FEA run might take hours.
 Instead, we can use a Gaussian Process (GP) surrogate model. 
 GPs are powerful for this task because they not only make predictions but also provide an uncertainty estimate for those predictions.
 This is crucial in engineering, as it tells you how much you can trust the surrogate model's output in areas where you have sparse data.
+
+![Surrogate Model](Surrogate.png)
